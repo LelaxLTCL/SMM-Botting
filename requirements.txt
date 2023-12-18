@@ -1,0 +1,5 @@
+colorama
+requests
+bs4
+
+(Just run install.bat)
